@@ -11,7 +11,7 @@ private String gameName;
         return gameName;
     }
 
-    public void setBrand(String gameName) {
+    public void setgameName(String gameName) {
         this.gameName = gameName;
     }
    

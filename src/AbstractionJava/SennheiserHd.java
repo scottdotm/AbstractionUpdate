@@ -10,5 +10,7 @@ package AbstractionJava;
  * @author Scott
  */
 public class SennheiserHd extends HeadPhone {
-    
+    //Color
+    //Open/Closed back
+    //Padding
 }
